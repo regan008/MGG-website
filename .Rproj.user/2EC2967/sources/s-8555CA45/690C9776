@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568126278333.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "690C9776",
+    "lastKnownWriteTime" : 1568126244,
+    "last_content_update" : 1568126244,
+    "path" : "~/Desktop/MGG-Site/themes/minimal-bootstrap-hugo-theme/exampleSite/config.toml",
+    "project_path" : "themes/minimal-bootstrap-hugo-theme/exampleSite/config.toml",
+    "properties" : {
+        "cursorPosition" : "48,12",
+        "scrollLine" : "31"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

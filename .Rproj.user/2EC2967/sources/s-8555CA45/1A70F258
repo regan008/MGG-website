@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568054399726.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4080204395",
+    "id" : "1A70F258",
+    "lastKnownWriteTime" : 1568126540,
+    "last_content_update" : 1568126540012,
+    "path" : "~/Desktop/MGG-Site/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "40,0",
+        "scrollLine" : "27"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

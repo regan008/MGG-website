@@ -1,0 +1,42 @@
+# Hugo variables
+#
+baseurl = "https://mappingthegayguides.org/"
+languageCode = "en-us"
+title = "Mapping the Gay Guides"
+theme = "minimal-bootstrap-hugo-theme"
+
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  description = "Some description"
+  contentBackgroundColor = "#fff"
+  contentTextColor = "#212529"
+  contentLinkColor = "#007bff"
+  contentLinkHoverColor = "#0056b3"
+  navbarBackgroundColor = "#212529"
+  navbarLinkColor = "rgba(255, 255, 255, 0.75)"
+  navbarLinkHoverColor = "rgba(255, 255, 255, 1)"
+  wrapperMaxWidth = "800px"
+  customDateFormat = "Jan 2, 2006"
+  customCodeStyle = true
+  customBlockquoteStyle = true
+  showPostSummary = false
+  googleAnalytics = "UA-123456789-1"
+  cookieConsent = true
+  includeBootstrapJs = false
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconThemeColor = "#ffffff"
+
+[menu]
+  [[menu.nav]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  
